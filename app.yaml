@@ -1,0 +1,4 @@
+runtime: nodejs18
+instance_class: F1
+env_variables:
+  GOOGLE_APPLICATION_CREDENTIALS: pwebsystem-a0ae1e9691e7.json
